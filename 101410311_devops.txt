@@ -1,2 +1,5 @@
 Hello 
 This is initial commit and push
+COMP 3104: About DevOps:
+Instructor: Pritesh Patel
+Content : Learning about version control system !!! using git 

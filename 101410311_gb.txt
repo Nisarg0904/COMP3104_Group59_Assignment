@@ -1,2 +1,9 @@
 Hello 
 This is initial commit and push
+Name : Nisarg Bhatti
+Student Id: 101410311
+George brown info: 
+Campus: Casa Loma:
+location : 160 Kendal av, Toronto
+Arts and Information Technology: 
+C Building

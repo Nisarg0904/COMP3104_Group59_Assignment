@@ -1,1 +1,5 @@
-How you doin ? <- if you have not seen friends this very stupid. I swear i know how to write, but this is because of a series. you should watch it.
+About COMP3104 - DevOps 
+Course Instructor - Pritesh Patel 
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a workplace environment to increase productivity. 
+Analyze and evaluate various developer operation implementations available and implement hands-on work using industry standard toolkit. 
+Create solutions to complex business problems by adhering to the core responsibilities of DevOps.

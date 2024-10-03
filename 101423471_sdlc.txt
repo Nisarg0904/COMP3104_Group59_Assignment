@@ -3,3 +3,4 @@ Course Instructor - Pritesh Patel
 In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a workplace environment to increase productivity. 
 Analyze and evaluate various developer operation implementations available and implement hands-on work using industry standard toolkit. 
 Create solutions to complex business problems by adhering to the core responsibilities of DevOps.
+In addition this cpurse will prepare us for the workplace and knowing how to not only be good developers but developers who can efficiently work with other developers

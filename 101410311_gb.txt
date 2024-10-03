@@ -1,9 +1,17 @@
-Hello 
-This is initial commit and push
-Name : Nisarg Bhatti
-Student Id: 101410311
-George brown info: 
+George brown College info: 
+
+
 Campus: Casa Loma:
-location : 160 Kendal av, Toronto
+
+-Located in downtown Toronto, George Brown College prioritizes real-world experiences for students. We’re also a city builder and community partner focused on social innovation, entrepreneurship and sustainability.
+location :160 Kendal Ave, Toronto, ON M5R 1M3
+Phone: (416) 415-2000
+Total enrollment: 32,117 (2016)
+President: Gervan Fearon
+Founded: 1967
+Colors: White, Blue
+Province: Ontario
+School type: Higher Education School
+
 Arts and Information Technology: 
 C Building

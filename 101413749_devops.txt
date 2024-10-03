@@ -1,1 +1,1 @@
-Hello 
+benefits of studying DevOps in college is gaining hands-on experience with modern tools and technologies used in the industry. Through practical labs and real-world projects, students acquire the ability to design, deploy, and manage scalable applications in both cloud and on-premise environments. This experience enhances employability, as DevOps professionals are in high demand across various industries, including technology, finance, healthcare, and e-commerce.

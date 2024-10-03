@@ -13,3 +13,7 @@ I am in 5th Semester in George Brown College
 Name : Kashyap Mavani
 Student Id: 101413749
 Howdy this is kash and im glad to work this project with these amazing people.
+
+Name : Fernando Chavez
+Student Id: 101423471
+International student in fifth semester working for the DEVOPS project

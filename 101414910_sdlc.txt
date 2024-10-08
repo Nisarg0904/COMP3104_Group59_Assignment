@@ -1,4 +1,4 @@
-What are the benefits of DevOps?
+What are the benefits of DevOps-COMP3014?
 
 DevOps is more than just a set of practices; it's a mindset that breaks down the traditional barriers between development (Dev) and operations (Ops) teams. In essence, DevOps aims to unify software development and IT operations, enabling faster, more reliable, and efficient software delivery.
 

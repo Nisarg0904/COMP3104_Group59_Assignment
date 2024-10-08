@@ -3,7 +3,7 @@
 ## Group Members
 
 - **Leader:** Nisarg Bhatti (101410311) - [GitHub](https://github.com/Nisarg0904)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 2:** Helly Chauhan (101414910) - [GitHub](https://github.com/helly373)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 - **Member 4:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 

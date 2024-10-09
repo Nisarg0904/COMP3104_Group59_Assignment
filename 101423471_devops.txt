@@ -3,3 +3,6 @@ In essence, DevOps aims to unify software development and IT operations, enablin
 
 It's about automating and streamlining every phase of the software lifecycle: development, testing, deployment, and monitoring.
 With DevOps, the focus is on continuous integration and continuous delivery (CI/CD), where code changes are integrated regularly, tested, and deployed to production without human intervention.
+
+In adittion is a coure that i like
+

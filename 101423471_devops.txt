@@ -6,3 +6,4 @@ With DevOps, the focus is on continuous integration and continuous delivery (CI/
 
 In adittion is a coure that i like
 
+Wish you a good day 01
